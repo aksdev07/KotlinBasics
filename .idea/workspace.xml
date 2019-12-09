@@ -122,7 +122,7 @@
   </component>
   <component name="RunManager" selected="Kotlin.acccessmodifiers.ExampleKt">
     <configuration name="CalculationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+      <module name="Kotlin Basic" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -135,7 +135,7 @@
       </method>
     </configuration>
     <configuration name="Unnamed (1)" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
-      <module name="test" />
+      <module name="Kotlin Basic" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -148,7 +148,7 @@
       </method>
     </configuration>
     <configuration name="Unnamed" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
-      <module name="test" />
+      <module name="Kotlin Basic" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -161,7 +161,7 @@
       </method>
     </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="test" />
+      <module name="Kotlin Basic" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -174,7 +174,7 @@
       </method>
     </configuration>
     <configuration name="acccessmodifiers.ExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+      <module name="Kotlin Basic" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -187,7 +187,7 @@
       </method>
     </configuration>
     <configuration name="inheritance.EmployeeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+      <module name="Kotlin Basic" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -200,7 +200,7 @@
       </method>
     </configuration>
     <configuration name="product.MultiplicationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+      <module name="Kotlin Basic" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -213,7 +213,7 @@
       </method>
     </configuration>
     <configuration name="stringTemplate.StringTemplateKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="test" />
+      <module name="Kotlin Basic" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -221,6 +221,40 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="stringTemplate.StringTemplateKt" />
       <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Kotlin Basic" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -298,10 +332,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="322" y="378" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.984@0.0.1280.984" timestamp="1575536097596" />
-    <state x="278" y="89" key="CommitChangelistDialog2" timestamp="1575871953955">
+    <state x="278" y="89" key="CommitChangelistDialog2" timestamp="1575876450494">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="278" y="89" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1575871953955" />
+    <state x="278" y="89" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1575876450494" />
     <state x="373" y="332" key="FileChooserDialogImpl" timestamp="1575872200641">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -346,10 +380,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="143" y="136" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1575876276630" />
-    <state x="232" y="227" key="Vcs.Push.Dialog.v2" timestamp="1575876010922">
+    <state x="232" y="227" key="Vcs.Push.Dialog.v2" timestamp="1575876349705">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="232" y="227" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1575876010922" />
+    <state x="232" y="227" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1575876349705" />
     <state x="451" y="410" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575872073314">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
