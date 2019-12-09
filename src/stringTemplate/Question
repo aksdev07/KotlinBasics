@@ -1,0 +1,2 @@
+Using string templates, find the length of a string, and print it in the following format:
+   If the input string is "programming", the function should return  "The string programming is of 11 characters length"

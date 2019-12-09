@@ -1,0 +1,4 @@
+1. Write a program to test whether a number is included in a range of numbers
+Write a program to test whether numToCheck is included in a range of numbers from lower to upper
+
+Hint: Use "  operator.
