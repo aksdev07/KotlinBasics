@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dc025be-1994-4f48-8aa3-a598067b77f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaCodingQuestion.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaCodingQuestion2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaExample2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaExample3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaExample4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/high-order function" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/lambda" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/CalculationKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/KotlinMath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/META-INF/test.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/Override/Developer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/Override/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/Override/OverrideExampleKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/acccessmodifiers/Child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/acccessmodifiers/ExampleKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/acccessmodifiers/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/arrayprint/ArrayPrintKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/class/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/class/EmployeeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/extensionfunction/ExtensionFunctionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/inheritance/Developer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/inheritance/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/inheritance/EmployeeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/product/MultiplicationKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/product/MultiplicationUsingClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/product/MultiplicationUsingClassKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/range/RangeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/stringTemplate/StringTemplateKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/typesafe/TypeSafeKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/vowelreturnlabel/ReturnLabelKt.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaConditionalExpresion.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,40 +180,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="Kotlin Basic" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Kotlin.Unnamed" />
       <item itemvalue="Kotlin.Unnamed (1)" />
@@ -310,9 +244,12 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Koltin examples getting pushed" />
     <MESSAGE value="project name changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="project name changed" />
+    <MESSAGE value="lambda positive integer filtered" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda positive integer filtered" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="319" key="#Unnamed" timestamp="1575536359189">
@@ -335,10 +272,11 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="322" y="378" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.984@0.0.1280.984" timestamp="1575536097596" />
-    <state x="278" y="89" key="CommitChangelistDialog2" timestamp="1575981005492">
-      <screen x="0" y="0" width="1280" height="984" />
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1575998226238">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="278" y="89" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1575981005492" />
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575998226238" />
     <state x="373" y="332" key="FileChooserDialogImpl" timestamp="1575872200641">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
