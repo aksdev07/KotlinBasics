@@ -1,0 +1,1 @@
+A function that consumes functions as parameters, or returns another function is called a higher-order function.

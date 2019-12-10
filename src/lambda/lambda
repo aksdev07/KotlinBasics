@@ -1,0 +1,10 @@
+Lambda functions are special functions which are not defined, but are passed immediately as expression.
+
+Syntax :
+
+val someName : Type = { arguments -> functionBody }
+Except functionBody, everything else is optional.
+The following lambda will calculate the square of a given number.
+
+val squareLambda = { number: Int -> number * number }
+println(squareLambda(5))

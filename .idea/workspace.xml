@@ -1,62 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dc025be-1994-4f48-8aa3-a598067b77f3" name="Default Changelist" comment="Koltin examples getting pushed">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/CalculationKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/KotlinMath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/META-INF/test.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/MainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/Override/Developer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/Override/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/Override/OverrideExampleKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/acccessmodifiers/Child.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/acccessmodifiers/ExampleKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/acccessmodifiers/Parent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/arrayprint/ArrayPrintKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/arrayprint/question" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/class/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/class/EmployeeKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/extensionfunction/ExtensionFunctionKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/inheritance/Developer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/inheritance/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/inheritance/EmployeeKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/product/MultiplicationKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/product/MultiplicationUsingClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/product/MultiplicationUsingClassKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/range/Question" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/range/RangeKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/stringTemplate/Question" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/stringTemplate/StringTemplateKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/typesafe/TypeSafeKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/test/vowelreturnlabel/ReturnLabelKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Override/OverrideExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/acccessmodifiers/Example.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayprint/ArrayPrint.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayprint/question" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class/Employee.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extensionfunction/ExtensionFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/Employee.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/product/Calculation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/product/Multiplication.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/product/MultiplicationUsingClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/range/Question" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/range/range.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringTemplate/Question" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringTemplate/StringTemplate.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typesafe/TypeSafe.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vowelreturnlabel/ReturnLabel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
+    <list default="true" id="3dc025be-1994-4f48-8aa3-a598067b77f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaCodingQuestion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaCodingQuestion2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaExample2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaExample3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaExample4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/high-order function" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/lambda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/CalculationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/KotlinMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/META-INF/test.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/Override/Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/Override/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/Override/OverrideExampleKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/acccessmodifiers/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/acccessmodifiers/ExampleKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/acccessmodifiers/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/arrayprint/ArrayPrintKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/class/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/class/EmployeeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/extensionfunction/ExtensionFunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/inheritance/Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/inheritance/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/inheritance/EmployeeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/product/MultiplicationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/product/MultiplicationUsingClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/product/MultiplicationUsingClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/range/RangeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/stringTemplate/StringTemplateKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/typesafe/TypeSafeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test/vowelreturnlabel/ReturnLabelKt.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,8 +66,14 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="aksdev07 &lt;beta4bug@gmail.com&gt;" />
         <option value="anuj" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
@@ -102,7 +86,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1UYZV4XLUK4anYmmMrQvdUwxJBm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -112,23 +98,37 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lambda" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1543232\IdeaProjects\test\src\inheritance" />
       <recent name="C:\Users\1543232\IdeaProjects\test\src\Override" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.acccessmodifiers.ExampleKt">
-    <configuration name="CalculationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.LambdaCodingQuestion2Kt">
+    <configuration name="LambdaCodingQuestion2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Basic" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk1.8.0_144" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="CalculationKt" />
+      <option name="MAIN_CLASS_NAME" value="LambdaCodingQuestion2Kt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaCodingQuestoin1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin Basic" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk1.8.0_144" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LambdaCodingQuestoin1Kt" />
       <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -173,53 +173,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="acccessmodifiers.ExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="lambda.LambdaCodingQuestionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Basic" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk1.8.0_144" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="acccessmodifiers.ExampleKt" />
+      <option name="MAIN_CLASS_NAME" value="lambda.LambdaCodingQuestionKt" />
       <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inheritance.EmployeeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="lambda.LambdaExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Basic" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk1.8.0_144" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="inheritance.EmployeeKt" />
+      <option name="MAIN_CLASS_NAME" value="lambda.LambdaExampleKt" />
       <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="product.MultiplicationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="lambda.pkg.LambdaCodingQuestion2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin Basic" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk1.8.0_144" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="product.MultiplicationKt" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="stringTemplate.StringTemplateKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin Basic" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk1.8.0_144" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="stringTemplate.StringTemplateKt" />
+      <option name="MAIN_CLASS_NAME" value="lambda.pkg.LambdaCodingQuestion2Kt" />
       <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -262,19 +249,19 @@
     <list>
       <item itemvalue="Kotlin.Unnamed" />
       <item itemvalue="Kotlin.Unnamed (1)" />
-      <item itemvalue="Kotlin.CalculationKt" />
-      <item itemvalue="Kotlin.inheritance.EmployeeKt" />
-      <item itemvalue="Kotlin.stringTemplate.StringTemplateKt" />
-      <item itemvalue="Kotlin.product.MultiplicationKt" />
-      <item itemvalue="Kotlin.acccessmodifiers.ExampleKt" />
+      <item itemvalue="Kotlin.lambda.LambdaCodingQuestionKt" />
+      <item itemvalue="Kotlin.lambda.pkg.LambdaCodingQuestion2Kt" />
+      <item itemvalue="Kotlin.LambdaCodingQuestoin1Kt" />
+      <item itemvalue="Kotlin.lambda.LambdaExampleKt" />
+      <item itemvalue="Kotlin.LambdaCodingQuestion2Kt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.acccessmodifiers.ExampleKt" />
-        <item itemvalue="Kotlin.CalculationKt" />
-        <item itemvalue="Kotlin.product.MultiplicationKt" />
-        <item itemvalue="Kotlin.stringTemplate.StringTemplateKt" />
-        <item itemvalue="Kotlin.inheritance.EmployeeKt" />
+        <item itemvalue="Kotlin.LambdaCodingQuestion2Kt" />
+        <item itemvalue="Kotlin.lambda.pkg.LambdaCodingQuestion2Kt" />
+        <item itemvalue="Kotlin.lambda.LambdaCodingQuestionKt" />
+        <item itemvalue="Kotlin.LambdaCodingQuestoin1Kt" />
+        <item itemvalue="Kotlin.lambda.LambdaExampleKt" />
       </list>
     </recent_temporary>
   </component>
@@ -300,8 +287,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575535510022</updated>
-      <workItem from="1575535513767" duration="31346000" />
+      <workItem from="1575535513767" duration="64831000" />
     </task>
+    <task id="LOCAL-00001" summary="Koltin examples getting pushed">
+      <created>1575876316702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575876316702</updated>
+    </task>
+    <task id="LOCAL-00002" summary="project name changed">
+      <created>1575876481624</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575876481624</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,7 +311,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Koltin examples getting pushed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Koltin examples getting pushed" />
+    <MESSAGE value="project name changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="project name changed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="319" key="#Unnamed" timestamp="1575536359189">
@@ -320,10 +323,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="47" y="246" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1575536008047" />
-    <state x="400" y="301" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575543830304">
+    <state x="400" y="301" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575878740460">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="400" y="301" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1575543830304" />
+    <state x="400" y="301" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1575878740460" />
     <state x="53" y="358" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1575536179085">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -332,46 +335,46 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="322" y="378" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.984@0.0.1280.984" timestamp="1575536097596" />
-    <state x="278" y="89" key="CommitChangelistDialog2" timestamp="1575876450494">
+    <state x="278" y="89" key="CommitChangelistDialog2" timestamp="1575981005492">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="278" y="89" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1575876450494" />
+    <state x="278" y="89" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1575981005492" />
     <state x="373" y="332" key="FileChooserDialogImpl" timestamp="1575872200641">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="373" y="332" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1575872200641" />
-    <state width="1237" height="261" key="GridCell.Tab.0.bottom" timestamp="1575871069426">
+    <state width="1237" height="184" key="GridCell.Tab.0.bottom" timestamp="1575981005554">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="261" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1575871069426" />
-    <state width="1237" height="261" key="GridCell.Tab.0.center" timestamp="1575871069426">
+    <state width="1237" height="184" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1575981005554" />
+    <state width="1237" height="184" key="GridCell.Tab.0.center" timestamp="1575981005554">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="261" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1575871069426" />
-    <state width="1237" height="261" key="GridCell.Tab.0.left" timestamp="1575871069426">
+    <state width="1237" height="184" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1575981005554" />
+    <state width="1237" height="184" key="GridCell.Tab.0.left" timestamp="1575981005554">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="261" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1575871069426" />
-    <state width="1237" height="261" key="GridCell.Tab.0.right" timestamp="1575871069426">
+    <state width="1237" height="184" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1575981005554" />
+    <state width="1237" height="184" key="GridCell.Tab.0.right" timestamp="1575981005554">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1237" height="261" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1575871069426" />
-    <state width="1200" height="296" key="GridCell.Tab.1.bottom" timestamp="1575634641336">
+    <state width="1237" height="184" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1575981005554" />
+    <state width="1237" height="315" key="GridCell.Tab.1.bottom" timestamp="1575886429304">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1200" height="296" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1575634641336" />
-    <state width="1200" height="296" key="GridCell.Tab.1.center" timestamp="1575634641336">
+    <state width="1237" height="315" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1575886429304" />
+    <state width="1237" height="315" key="GridCell.Tab.1.center" timestamp="1575886429304">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1200" height="296" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1575634641336" />
-    <state width="1200" height="296" key="GridCell.Tab.1.left" timestamp="1575634641336">
+    <state width="1237" height="315" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1575886429304" />
+    <state width="1237" height="315" key="GridCell.Tab.1.left" timestamp="1575886429304">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1200" height="296" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1575634641336" />
-    <state width="1200" height="296" key="GridCell.Tab.1.right" timestamp="1575634641336">
+    <state width="1237" height="315" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1575886429304" />
+    <state width="1237" height="315" key="GridCell.Tab.1.right" timestamp="1575886429304">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1200" height="296" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1575634641336" />
+    <state width="1237" height="315" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1575886429304" />
     <state x="307" y="196" key="NewModule_or_Project.wizard" timestamp="1575872246979">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -380,14 +383,22 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="143" y="136" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1575876276630" />
-    <state x="232" y="227" key="Vcs.Push.Dialog.v2" timestamp="1575876349705">
+    <state x="232" y="227" key="Vcs.Push.Dialog.v2" timestamp="1575876493541">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="232" y="227" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1575876349705" />
+    <state x="232" y="227" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1575876493541" />
     <state x="451" y="410" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575872073314">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="451" y="410" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.984@0.0.1280.984" timestamp="1575872073314" />
+    <state x="309" y="133" width="662" height="717" key="find.popup" timestamp="1575878474960">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="309" y="133" width="662" height="717" key="find.popup/0.0.1280.984@0.0.1280.984" timestamp="1575878474960" />
+    <state x="381" y="139" key="refactoring.ChangeSignatureDialog" timestamp="1575877509047">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="381" y="139" key="refactoring.ChangeSignatureDialog/0.0.1280.984@0.0.1280.984" timestamp="1575877509047" />
     <state x="375" y="539" key="run.anything.popup" timestamp="1575541391279">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
